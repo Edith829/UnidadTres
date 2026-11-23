@@ -2,4 +2,9 @@
 <resources>
 
     <style name="Theme.Pruebas" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/gray</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/icono</item>
+        <item name="postSplashScreenTheme">@style/Theme.Pruebas</item>
+    </style>
 </resources>

@@ -3,4 +3,11 @@
     <string name="back_btn_desc" />
     <string name="bottom_app_bar" />
     <string name="home_fab_text" />
+    <string name="options_menu" />
+    <string name="profile" />
+    <string name="config" />
+    <string name="logout" />
+    <string name="call" />
+    <string name="contacts" />
+    <string name="bluetooth" />
 </resources>
